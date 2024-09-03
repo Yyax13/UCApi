@@ -14,7 +14,7 @@ export default function Home() {
       <p className="text-zinc-100 font-semibold text-9xl text-center mb-8">API Abaixo</p>
       <button
         className="text-cyan-700 text-lg italic text-center mb-8 mt-12 bg-cyan-100 rounded-lg p-4"
-        onClick={() => goTo("/APIGateway/consulta")}
+        onClick={() => goTo("/APIGateway/UC-API")}
       >
         aaaaaaa
       </button>
